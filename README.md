@@ -1,4 +1,4 @@
 "# Skripsi-IDS_ML" 
 
-preprocessing sedang dalam progress 
+preprocessing sedang dalam progress (datasetnya besar), 
 random forest menyusul
