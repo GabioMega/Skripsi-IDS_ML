@@ -1,4 +1,3 @@
 "# Skripsi-IDS_ML" 
 
-preprocessing sedang dalam progress (datasetnya besar), 
-random forest menyusul
+untuk machine learning yang seperated done. tinggal bikin yang kombinasi/gabungan
